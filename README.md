@@ -1,39 +1,34 @@
-# Description
+# 📝 Topic
 
-This dashboard is being made for an exercise of a specialization about Business Intelligence
+- Electric Cars Vehicle Population
+- Tool used: Excel, PowerBI
 
-## Filters
+# 📝 Description
 
-I've only used a filter where you can choose the year, from that we can already realize some points with the graphics that we have
+Vehicle Population dataset gives us important information about how many vehicles per brand is created on electric cars. My task here was to have a dashboard to offer visualizations about the amount of electric cars are in the market
 
-## Dashboard
+# 📝 Things I've Done
 
-Compañías por país con  vehículos eléctricos -> these are the companies of the vehicles for each country
+🔹 Imported Excel Electric Cars dataset into PowerBI
 
-Rango eléctrico por Año -> Range of electric range per year
+🔹 Removed irrelevant or redundant column handled missing values
 
-Tipo de vehículos eléctricos -> type of vehicles through every year
+🔹 Create filters based of years
 
-Coches eléctricos por año por Compañia -> cars per year of compoanies through the years
+# 📌 Insights
 
-Coche eléctrico por marca -> car per branch
+🔹 Important KPI is electric car per brand
 
-Tipos de vehiculos -> type of vehicles being this case battery electric or hybrid
+🔹 Electric car per brand per country show tesla is the most important one
 
-## Conclusion
+🔹 Range electric per year
 
-What have we discovered by doing it? Trends, outliers, evidence that has been discovered through analysis that was not so evident at the beginning
+🔹 Type of electric vehicle based on distribution per year
 
-By watching this dashboard we can realize that Tesla is the Company with most electric cars in the world.
+🔹 Electric carts per year per brand 
 
-I made some graphics to see in which year we got more vehicles and tops of companies.
+🔹 Type of vehicle meaning if it's electric or hybrid
 
-## Programs
+# ✔ Conclusion
 
-- Excel 2016
-
-- PowerBI
-
-## Feedback
-
-I got the excel dataset from Kaggle that I think is deleted because I don't find it
+✴ "This dashboard provides a tool for public to realize which brands are the most important one in the electric cars industry." ✴
